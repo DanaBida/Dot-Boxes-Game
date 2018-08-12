@@ -13,4 +13,4 @@ The program has lists that maintains the players, dots and squares.
 The Computer Player moves implemented by priority list of facts(Prolog), that simulates the steps a skilled player would take in a game.
 The game has 2 level of difficulty that changes by the list of facts the computer can take in his turn.
 
-The projects include Graphic realization. to see it, grab all the image from the images folder to your Prolog bitmap folder and start playing. 
+The projects include Graphic realization. to see it, grab all the image from the images folder to your Prolog bitmap folder and start playing by enter the word start. in the Prolog screen. 
